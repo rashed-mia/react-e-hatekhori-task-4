@@ -31,22 +31,26 @@ This is a fontend application, so my best deployment option is vercel.
  step-1:
 
 go to terminal and write this command to clone source code 
-   `git clone https://github.com/rashed-mia/react-e-hatekhori-task-4.git`
+```sh
+ git clone https://github.com/rashed-mia/react-e-hatekhori-task-4.git
 
 step-2:
 
- to go the project repository  write ```sh
-    `cd task-04`
+ to go the project repository  write 
+ ```sh
+ cd task-04
 
  step-3:
 
- to install dependencies write  ```sh
-   `npm install`
+ to install dependencies write 
+ ```sh  
+  npm install
 
  step-4:
 
- to run the code write ```sh
-   `npm run dev`
+ to run the code write 
+ ```sh
+  npm run dev
 
 ---
 
@@ -77,7 +81,7 @@ step-2:
 
 # links
 
-source code:[github link](https://github.com/rashed-mia/react-e-hatekhori-task-4.git)
+source code: [github link](https://github.com/rashed-mia/react-e-hatekhori-task-4.git)
 
-live project:[vercel deployment link](https://react-e-hatekhori-task-4.vercel.app/)
+live project: [vercel deployment link](https://react-e-hatekhori-task-4.vercel.app/)
 
